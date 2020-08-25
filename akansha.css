@@ -1,0 +1,26 @@
+body{
+
+	background-size:cover;
+	background-color:white;
+	font-family:arial;
+	
+}
+img{
+height:200px;
+}
+{
+	color:white;
+	margin-bottom:80px;
+}
+.div1{
+	border:2px solid pink;
+	width:100%;
+	float:left;
+	color:white;
+	height:150px;
+	background-color:04005f;
+	text-align:center;
+}
+.pics{
+	
+}

@@ -1,0 +1,14 @@
+body{
+	background:url(' image/background12.jpg') no-repeat;
+	background-size:cover;
+	
+	font-family:arial;
+	color:white;
+}
+h3{
+	color:pink;
+	background-color:white;
+}
+.div3{
+	margin-left:50%;
+}

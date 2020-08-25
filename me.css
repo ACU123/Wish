@@ -1,0 +1,48 @@
+body{
+	background:url(' background2.jpg'), no-repeat;
+
+	background-size:cover;
+	font-family:arial;
+	color:white;
+}
+a{
+	color:white;
+}
+h1 {
+  color:red;
+opacity:1;
+  text-align:center;
+  margin-top:9px;
+}
+marquee{
+	
+	background-color:blue;
+	height:50px;
+	opacity:0.3;
+}
+.con{
+	height:500px;
+}
+.div1
+{
+	
+	margin-top:10px;
+	border: 2px solid grey;
+	width:450px;
+	text-align:center;
+	float:left;
+	height:400px;
+	color:yellow;
+	
+}
+.div2
+{
+	margin-top:240px;
+	font-family:arial;
+	font-style:italic;
+	border:3px solid white;
+	width:700px;
+	float:right;
+ 	
+	text-align:center;
+}

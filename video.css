@@ -1,0 +1,10 @@
+body{
+	background:url(' image/pic50.jpg') no-repeat;
+	background-size:cover;
+	
+	font-family:arial;
+	color:white;
+}
+a{
+	text-decoration:none;
+}

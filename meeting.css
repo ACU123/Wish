@@ -1,0 +1,23 @@
+body{
+	background:url(' 700.png') no-repeat;
+	background-size:cover;
+	
+	font-family:arial;
+	color:white;
+}
+.div2{
+	float:right;
+	color:purple;
+	background-color:white;
+	width:750px
+}
+.div3{
+	background-color:tomato;
+	color:grey;
+	width:150px;
+}
+h1 {
+  color: tomato;
+  background-color:gray;
+  text-align:center;
+}
